@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="gather_code",
-    version="0.1.0",
+    version="0.1.1",
     description="A tool to gather your codebase into a single file with a directory tree and file contents.",
     author="Oleksii Furman",
     author_email="qizzup@gmail.com",
